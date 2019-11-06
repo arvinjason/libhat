@@ -3,6 +3,7 @@
 # The code is meant for a Raspberry Pi and interfaces with external sensors using the GPIO to gather environmental and user data used for service improvement in heritage organisations.
 
 # User statistics module
+#   Arvin Jason Aquino and Aldrin Ken Ong
 #   Monitors monthly user figures (entering the main doors of the library)
 
 # Noise level response module
